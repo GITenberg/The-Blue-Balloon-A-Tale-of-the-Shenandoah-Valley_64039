@@ -1,0 +1,35 @@
+_repo: The-Blue-Balloon-A-Tale-of-the-Shenandoah-Valley_64039
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, Walter S.
+    - Stacey, W.S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+creator:
+  author:
+    agent_name: Horsley, Reginald
+    alias: Horsley, Reginald Ernest
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '47889'
+    url: http://www.gutenberg.org/2009/agents/47889
+description: ''
+gutenberg_issued: '2020-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Blue Balloon
+
+  A Tale of the Shenandoah Valley'
+url: http://www.gutenberg.org/ebooks/64039
